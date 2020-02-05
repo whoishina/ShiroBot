@@ -1,0 +1,7 @@
+{
+    "api_key": "38e8643fb0dc04e8d65b99994d3dafff",
+    "sig": "426935e6a7215d3de506d1895cefac73865634927e5c9a4ffee0d147a372bf8ace7365559b3e7a6ef9b099f440c94947d16605407aa51c34746f593a1b6bb589",
+    "api_url": "https://zingmp3.vn/api/search/multi",
+    "mp3Url": "https://zingmp3.vn/api/song/get-streamings",
+    "mp3Sig": "7f24792485b9884b472b44dde8bdabe0882e7c45eb29e46b8e7db855ada57cff26d8a92660137ad99aff50b1cd9548ce6e798765c0505cd7325cd2b25bcc3688"
+}
